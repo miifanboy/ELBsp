@@ -1,5 +1,5 @@
 # ELBsp
-Software to add event listener to source engine .bsp files without recompiling them.
+Software to add event listener to source engine .bsp files without recompiling them using [ValveBsp](https://github.com/pySourceSDK/ValveBSP) library.
 
 # Requirements
 
