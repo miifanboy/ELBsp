@@ -1,6 +1,10 @@
 # ELBsp
 Software to add event listener to source engine .bsp files without recompiling them.
 
+# Requirements
+
+.Net Framework 4.7.2
+
 # Usage
 
 ![image](https://user-images.githubusercontent.com/87207112/149390324-d7b35583-466f-466b-821b-054267d371a7.png)
