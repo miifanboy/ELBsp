@@ -3,18 +3,40 @@ Software to add event listener to source engine .bsp files without recompiling t
 
 # Usage
 
-(screenshot1)
+![image](https://user-images.githubusercontent.com/87207112/149390324-d7b35583-466f-466b-821b-054267d371a7.png)
 
 -Drag and drop your bsp file.
 
 Wow magic now you have a bsp called "yourbsp_elbsp_0.bsp" which has event listener in it.
 
 > Note: Default save location is the input bsp location
+
+# Example VScript Code
+
+```
+IncludeScript("vs_library.nut")
+VS.ListenToGameEvent( "player_hurt", function( event )
+{
+  local weaponname = event.weapon
+  printl(weaponname) //prints the weapon that hurt the player
+}, "" )
+```
+[VS Library](https://github.com/samisalreadytaken/vs_library)
+
+## Entities In The New Bsp File
+```
+logic_eventlistener:
+	targetname: vs.eventlistener
+
+point_template:
+	Entity Scripts: vs_eventlistener.nut
+	Template01: vs.eventlistener
+```
 # Features
 
 Did you know that you can also click open to select your bsp file ?
 
-now you know
+now you know it
 
 Custom Save: It will ask you for your save location when you drag and drop or open your file.
 
