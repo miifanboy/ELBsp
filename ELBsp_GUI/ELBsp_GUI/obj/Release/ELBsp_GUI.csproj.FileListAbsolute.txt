@@ -1,0 +1,10 @@
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\bin\Release\ELBsp.exe.config
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\bin\Release\ELBsp.exe
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\bin\Release\ELBsp.pdb
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp.about.resources
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp.Form1.resources
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp.Properties.Resources.resources
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp_GUI.csproj.GenerateResource.cache
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp.exe
+C:\Users\sonfi\source\repos\ELBsp_GUI\ELBsp_GUI\obj\Release\ELBsp.pdb
